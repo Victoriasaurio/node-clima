@@ -7,7 +7,7 @@ Ejecutar ``` npm install ``` para descargar las librerías
 node app -d "New York"
 ```
 
-####¿Cómo instalar una versión específica en NPM?
+#### ¿Cómo instalar una versión específica en NPM?
 Se debe agregar un **@<version>** y especificar la versión. Por ejemplo: <br>
 ```
 npm install react@16.14.0
